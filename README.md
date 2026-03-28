@@ -128,8 +128,4 @@ jupyter notebook Time-series_analysis.ipynb
 
 ---
 
-## 🙋 Author
 
-**Jayesh Amudan**
-MSc Business Analysis & Consulting | Data Analyst
-[LinkedIn](#) · [GitHub](#)
